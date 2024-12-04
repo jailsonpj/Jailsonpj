@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 💜 Olá, meu nome é Jailson Pereira!
+- 📌 De João Pessoa, Paraíba, Brasil.
+- 🔭 Atualmente sou **Engenheiro de Dados**.
+- 🎓 Sou formado em Sistemas de Informação, com Mestrado em Computação na área de Machine Learning e NLP!
+
+---
+
+## 🚀 Minhas Skills
+[![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)]
+[![Java](	https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)]
+![Flask](https://img.shields.io/badge/-Flask-092E20?&logo=Flask&logoColor=FFFFFF) 
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) 
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jailsonpj&show_icons=true)
+
